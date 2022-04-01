@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059399530690",
+    "project_id": "accountpylearn-501b3",
+    "storage_bucket": "accountpylearn-501b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059399530690:android:1c28f971b4ec46bd37235b",
+        "android_client_info": {
+          "package_name": "com.example.pylearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059399530690-3dt4tfkti8k7nof4cp3edrhh4rv8eqdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsTizG9mkEpot4yyDXYNALFVlPjzD6LQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059399530690-3dt4tfkti8k7nof4cp3edrhh4rv8eqdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
