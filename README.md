@@ -1,16 +1,5 @@
-# pylearn
+# PyLearn
 
-A new Flutter project.
+This project aims to facilitate the study of the discipline and independent study of the python programming language.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Apk file can be downloaded on the official website of the developer [skarlypka](https://github.com/skarlypka/skarlypkaSite.git) where you can view and download other projects.
